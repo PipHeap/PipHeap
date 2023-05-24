@@ -1,3 +1,3 @@
-# P4Heap
+# PipHeap
 
-This folder contains P4 code implements P4Heap. 
+This folder contains P4 code implements PipHeap. 

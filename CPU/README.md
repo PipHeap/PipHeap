@@ -1,6 +1,6 @@
-# P4Heap
+# PipHeap
 
-A general TopK framework to filter giant flows in order to increase the accuracy of various types of sketches. This folder contains the code of P4Heap on CPU platform. 
+A general pipelined heap implementation and TopK framework to filter giant flows in order to increase the accuracy of various types of sketches. This folder contains the code of P4Heap on CPU platform. 
 
 ## Build and Run 
 To build the code, you need to install `clang`(at least version 10) first.
